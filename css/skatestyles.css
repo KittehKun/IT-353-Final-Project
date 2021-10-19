@@ -1,0 +1,32 @@
+.standardBlock{
+	border: 2px solid black;
+	margin: 10px;
+	padding: 10px;
+}
+
+.test{
+	border: 2px solid red;
+	margin: 10px;
+	padding: 10px;
+	display: block;
+	position: relative;
+}
+
+.mediaBlock{
+	background-color: grey;
+	border: 5px solid black;
+	margin: 20px;
+	padding: 20px;
+	position: relative;
+	display: block;
+	height: 500px;
+}
+
+img{
+	border: 2px solid black;
+	position: relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}

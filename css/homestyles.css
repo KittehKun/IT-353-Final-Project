@@ -1,0 +1,21 @@
+/* h1 {
+	This block is only to test if CSS sheet has been identified
+	color: red;
+	text-align: center;
+} */
+
+.center{
+	margin: auto;
+	width: 90%;
+	background-color: #D3D3D3;
+	text-align: center;
+	padding: 10px;
+	border: 2px solid #000000;
+}
+
+.whiteBlock{
+	margin:10px;
+	border: 1px solid white;
+	padding:5px;
+	background-color:white;
+}
